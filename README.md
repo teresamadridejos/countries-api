@@ -1,6 +1,6 @@
 # API Countries
 
-Queremos aprender consumir APIs:
+Queremos aprender a consumir APIs:
 
 ##    Nivel uno
 Tenemos un API de todos los países del mundo (https://restcountries.com/v3.1/all), necesitamos imprimir el contenido de este API a un JSON y luego imprimir una lista de los países con sus banderas (Se puede añadir mas atributos del API).
