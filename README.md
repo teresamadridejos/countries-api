@@ -1,14 +1,11 @@
-# API Countries
+# Countries Info App
 
-Queremos aprender a consumir APIs:
+Esta es una aplicación web desarrollada en React que proporciona información sobre diferentes países del mundo, incluyendo sus banderas y la lista de países vecinos. La aplicación utiliza dos APIs: una para obtener detalles generales sobre los países y otra para obtener información sobre los países vecinos.
 
-##    Nivel uno
-Tenemos un API de todos los países del mundo (https://restcountries.com/v3.1/all), necesitamos imprimir el contenido de este API a un JSON y luego imprimir una lista de los países con sus banderas (Se puede añadir mas atributos del API).
+La aplicación ha sido implementada en GitHub Pages para facilitar el acceso en línea. Puedes visitar la aplicación en https://teresamadridejos.github.io/countries-api/
 
-##    Nivel dos
-Al hacer click a un país, necesitamos que aparezca una lista de los países vecinos usando el API (https://api.geodatasource.com/neighbouring-countries), Esta API requiere dos parámetros: __`key`__ y __country\_code__. La clave (`key`) se obtiene de registrarse en su página web: 
+##    Tecnologías utilizadas
 
-    y el parámetro `country_code` será el que obtengas a partir de la información de la primera API.
-  
-##    Nivel tres
-Marcar la ubicación de este país en el mapa usando la librería Leaflet.js.
+    React
+    Axios
+    CSS
